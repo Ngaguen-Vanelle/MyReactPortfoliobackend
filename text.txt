@@ -1,0 +1,3 @@
+vanel
+
+mongodb+srv://vanel:vanel@database.g2pacst.mongodb.net/
